@@ -1,0 +1,23 @@
+.container {
+  width: 940px;
+  margin: 0 auto;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.headerTitle {
+  margin: 0;
+  font-size: 21px;
+  margin-right: 20px;
+}
+
+.buttonsWrapper {
+  display: flex;
+  width: 300px;
+  justify-content: space-between;
+}

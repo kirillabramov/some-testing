@@ -1,0 +1,31 @@
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  border-radius: 50px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.button > svg {
+  margin-right: 10px;
+}
+
+.buttonRed {
+  padding: 8px 18px 10px;
+  background: #fc5252;
+  border: none;
+  color: #fff;
+}
+
+.buttonDark {
+  border: 2px solid #1c4d73;
+  padding: 9px 16px;
+  background: transparent;
+  color: #1c4d73;
+}
+
+.buttonDark svg path {
+  fill: #1c4d73;
+}

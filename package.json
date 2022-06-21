@@ -11,6 +11,9 @@
     "@types/node": "^17.0.45",
     "@types/react": "^18.0.14",
     "@types/react-dom": "^18.0.5",
+    "classnames": "^2.3.1",
+    "json-server": "^0.17.0",
+    "normalize.css": "^8.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.2",
@@ -22,7 +25,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "mock": "json-server --port 3001 --watch db.json"
   },
   "eslintConfig": {
     "extends": [
@@ -41,5 +45,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "sass": "^1.52.3"
   }
 }

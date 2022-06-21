@@ -1,0 +1,299 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "accountType": "corporateAccounts",
+      "currency": "BTC",
+      "balance": 123.445,
+      "accountName": "Test Account Name"
+    },
+    {
+      "id": 2,
+      "accountType": "custodyVaults",
+      "currency": "ETH",
+      "balance": 11323.424,
+      "accountName": "Test qqwerrr Name"
+    },
+    {
+      "id": 3,
+      "accountType": "corporateAccounts",
+      "currency": "USD",
+      "balance": 0,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 4,
+      "accountType": "corporateAccounts",
+      "currency": "EUR",
+      "balance": 5558,
+      "accountName": "Test Name account"
+    },
+    {
+      "id": 5,
+      "accountType": "corporateAccounts",
+      "currency": "GBP",
+      "balance": 773123.445,
+      "accountName": "Qeweeq q test"
+    },
+    {
+      "id": 6,
+      "accountType": "corporateAccounts",
+      "currency": "BTC",
+      "balance": 23243243.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 7,
+      "accountType": "corporateAccounts",
+      "currency": "BTC",
+      "balance": 7223123.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 8,
+      "accountType": "corporateAccounts",
+      "currency": "USD",
+      "balance": 553.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 9,
+      "accountType": "corporateAccounts",
+      "currency": "GBP",
+      "balance": 23243243.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 10,
+      "accountType": "corporateAccounts",
+      "currency": "ETH",
+      "balance": 63123.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 11,
+      "accountType": "corporateAccounts",
+      "currency": "ETH",
+      "balance": 1123.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 12,
+      "accountType": "corporateAccounts",
+      "currency": "BTC",
+      "balance": 7223123.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 13,
+      "accountType": "corporateAccounts",
+      "currency": "USD",
+      "balance": 553.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 14,
+      "accountType": "corporateAccounts",
+      "currency": "GBP",
+      "balance": 23243243.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 15,
+      "accountType": "corporateAccounts",
+      "currency": "ETH",
+      "balance": 63123.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 16,
+      "accountType": "corporateAccounts",
+      "currency": "ETH",
+      "balance": 1123.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 17,
+      "accountType": "corporateAccounts",
+      "currency": "BTC",
+      "balance": 7223123.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 18,
+      "accountType": "corporateAccounts",
+      "currency": "USD",
+      "balance": 553.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 19,
+      "accountType": "corporateAccounts",
+      "currency": "GBP",
+      "balance": 23243243.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 20,
+      "accountType": "corporateAccounts",
+      "currency": "ETH",
+      "balance": 63123.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 21,
+      "accountType": "corporateAccounts",
+      "currency": "ETH",
+      "balance": 1123.445,
+      "accountName": "Name Test account"
+    },
+
+    {
+      "id": 1231,
+      "accountType": "custodyVaults",
+      "currency": "BTC",
+      "balance": 123.445,
+      "accountName": "Test Account Name"
+    },
+    {
+      "id": 41232,
+      "accountType": "custodyVaults",
+      "currency": "ETH",
+      "balance": 11323.424,
+      "accountName": "Test qqwerrr Name"
+    },
+    {
+      "id": 33123,
+      "accountType": "custodyVaults",
+      "currency": "USD",
+      "balance": 0,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 45425,
+      "accountType": "custodyVaults",
+      "currency": "EUR",
+      "balance": 5558,
+      "accountName": "Test Name account"
+    },
+    {
+      "id": 52535,
+      "accountType": "custodyVaults",
+      "currency": "GBP",
+      "balance": 773123.445,
+      "accountName": "Qeweeq q test"
+    },
+    {
+      "id": 32136,
+      "accountType": "custodyVaults",
+      "currency": "BTC",
+      "balance": 23243243.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 413247,
+      "accountType": "custodyVaults",
+      "currency": "BTC",
+      "balance": 7223123.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 53453548,
+      "accountType": "custodyVaults",
+      "currency": "USD",
+      "balance": 553.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 12321319,
+      "accountType": "custodyVaults",
+      "currency": "GBP",
+      "balance": 23243243.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 2343210,
+      "accountType": "custodyVaults",
+      "currency": "ETH",
+      "balance": 63123.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 43243211,
+      "accountType": "custodyVaults",
+      "currency": "ETH",
+      "balance": 1123.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 14322624262,
+      "accountType": "custodyVaults",
+      "currency": "BTC",
+      "balance": 7223123.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 18658583,
+      "accountType": "custodyVaults",
+      "currency": "USD",
+      "balance": 553.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 15151514,
+      "accountType": "custodyVaults",
+      "currency": "GBP",
+      "balance": 23243243.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 1745745745,
+      "accountType": "custodyVaults",
+      "currency": "ETH",
+      "balance": 63123.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 131231236,
+      "accountType": "custodyVaults",
+      "currency": "ETH",
+      "balance": 1123.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 1568568657,
+      "accountType": "custodyVaults",
+      "currency": "BTC",
+      "balance": 7223123.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 513523542518,
+      "accountType": "custodyVaults",
+      "currency": "USD",
+      "balance": 553.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 41353153119,
+      "accountType": "custodyVaults",
+      "currency": "GBP",
+      "balance": 23243243.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 252353250,
+      "accountType": "custodyVaults",
+      "currency": "ETH",
+      "balance": 63123.445,
+      "accountName": "Name Test account"
+    },
+    {
+      "id": 25235251,
+      "accountType": "custodyVaults",
+      "currency": "ETH",
+      "balance": 1123.445,
+      "accountName": "Name Test account"
+    }
+  ]
+}
